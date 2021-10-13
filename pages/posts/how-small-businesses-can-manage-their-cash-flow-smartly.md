@@ -8,8 +8,6 @@ author: You
 ---
 # **How Small Businesses Can Manage Their Cash Flow Smartly**
 
-### 
-
 ![](https://cdn-images-1.medium.com/max/800/1*_GIeORcE4Wx1xrH5VKhohQ.jpeg)
 
 Running a small or medium sized business anywhere in the world has its challenges. Cash flow problems in particular account for a huge percentage of corporate bankruptcies and are a major cause of financial distress in Southeast Asia, including Singapore. If sales is necessary for success, then the effective management of cash flow is key to the future of a business. It follows therefore that the focus must turn to all the activities that ensure the effective collection of debt.
