@@ -8,7 +8,7 @@ author: You
 ---
 # **How Small Businesses Can Manage Their Cash Flow Smartly**
 
-![](https://cdn-images-1.medium.com/max/800/1*_GIeORcE4Wx1xrH5VKhohQ.jpeg)
+![](/images/1__gieorce4wx1xrh5vkhohq.jpeg)
 
 Running a small or medium sized business anywhere in the world has its challenges. Cash flow problems in particular account for a huge percentage of corporate bankruptcies and are a major cause of financial distress in Southeast Asia, including Singapore. If sales is necessary for success, then the effective management of cash flow is key to the future of a business. It follows therefore that the focus must turn to all the activities that ensure the effective collection of debt.
 
@@ -20,13 +20,15 @@ Therefore, cash handled by a business must be monitored through proper cash flow
 
 While cash flow is a measure of the company’s ability to generate cash over a specific period of time, working capital provides a snapshot of the present situation. It is the amount of money that a company has on hand, or will have, in a given year. Working capital is calculated by subtracting current liabilities from current assets. Working capital provides an excellent idea about how a company can pay immediate liabilities. Cash flow, therefore, can be viewed as a forward-looking measure.
 
-![](https://cdn-images-1.medium.com/max/600/1*Th5kT-KMXVQmrwROR5ZuHg.png)No. of late payments exceeding 120 days in 2015 and 2016
+![](/images/1_th5kt-kmxvqmrwror5zuhg.png)
 
-If the working capital is insufficient while cash flow is satisfactory, the company could still generate sufficient cash given enough time. However, if a company’s creditors are not willing to give required time, the company could easily go bankrupt.  
-   
- Hence it is vital for a business to undertake both short-term and long-term plannings to manage its cash.   
-   
- Studies done by ISCA (Institute of Singapore Chartered Accountants, Singapore) show that companies display mixed performance in its cash flow management. In general, Singapore companies fare better than their global peers in days payable outstanding (DPO) and days in inventory (DIO) but fare worse in receivables overdue and days sales outstanding (DSO).
+No. of late payments exceeding 120 days in 2015 and 2016
+
+If the working capital is insufficient while cash flow is satisfactory, the company could still generate sufficient cash given enough time. However, if a company’s creditors are not willing to give required time, the company could easily go bankrupt.
+
+Hence it is vital for a business to undertake both short-term and long-term plannings to manage its cash.
+
+Studies done by ISCA (Institute of Singapore Chartered Accountants, Singapore) show that companies display mixed performance in its cash flow management. In general, Singapore companies fare better than their global peers in days payable outstanding (DPO) and days in inventory (DIO) but fare worse in receivables overdue and days sales outstanding (DSO).
 
 A further recent working capital survey done by PriceWaterhouseCoopers shows the increasing DSOs across industry verticals.
 
@@ -66,7 +68,9 @@ Keep abreast of news that may affect the creditworthiness of your key clients. P
 
 **3. Keep a close eye on overheads and inventory**
 
-![](https://cdn-images-1.medium.com/max/600/1*HJGLktPi9gMsm8CAu5eSPw.png)Top 3 most common reasons for late payments
+![](/images/1_hjglktpi9gmsm8cau5espw.png)
+
+Top 3 most common reasons for late payments
 
 Understanding the overhead cost base of your business is necessary to understand where the payments need to be made. Rooting out unnecessary expenses on a regular basis helps in eliminating excess overheads.
 
