@@ -2,7 +2,8 @@
 title: Hello Steve
 date: 2016-06-01T00:00:00+08:00
 description: Hello World for Steve Jobs
-tag: []
+tag:
+- product
 author: You
 
 ---
