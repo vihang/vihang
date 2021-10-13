@@ -1,8 +1,9 @@
 ---
 title: How Small Businesses Can Manage Their Cash Flow Smartly
-date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: web development
+date: 2019-12-01T00:00:00+08:00
+description: Cash Flow Management
+tag:
+- finance
 author: You
 
 ---
