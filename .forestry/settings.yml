@@ -9,12 +9,6 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-- type: directory
-  path: pages/posts
-  label: Posts
-  create: all
-  match: "**/*"
-  new_doc_ext: md
 upload_dir: public/images
 public_path: "/images"
 front_matter_path: ''
