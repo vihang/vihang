@@ -1,4 +1,5 @@
 ---
+type: posts
 title: Rise of Data Scientist 'Janitors' and the need for Data Wranglers
 date: 2018-10-01T00:00:00+08:00
 description: Data Wranglers
